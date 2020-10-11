@@ -677,11 +677,11 @@ Skills
   left: 0;
   background: var(--clr-primary-5);
   height: 100%;
-  width: 50%;
+  width: 100%;
   border-radius: var(--radius);
 }
-.value-70 {
-  width: 70%;
+.value-100 {
+  width: 100%;
 }
 .value-80 {
   width: 80%;
@@ -689,11 +689,11 @@ Skills
 .skill-text {
   position: absolute;
   top: -2rem;
-  left: 50%;
+  left: 100%;
   transform: translateX(-50%);
 }
-.skill-text-70 {
-  left: 70%;
+.skill-text-100 {
+  left: 100%;
 }
 .skill-text-80 {
   left: 80%;
